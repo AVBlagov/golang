@@ -76,8 +76,8 @@ func main() {
 		compare(str[start:end], start, end)
 		//compare(str[10:15], 10, 15)
 		fmt.Println(flags)
-		start = end
-		end = end + 6
+		// start = end
+		// end = end + 6
 		compare(str[start:end], start, end)
 		fmt.Println(flags)
 		break
