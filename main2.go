@@ -78,6 +78,7 @@ func main() {
 		fmt.Println(flags)
 		// start = end
 		// end = end + 6
+
 		compare(str[start:end], start, end)
 		fmt.Println(flags)
 		break
