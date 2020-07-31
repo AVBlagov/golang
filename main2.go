@@ -79,6 +79,7 @@ func main() {
 		// start = end
 		// end = end + 6
 		/////https://proglib.io/p/git-for-half-an-hour/
+		//https://starkovden.github.io/make-curl-call.html
 		compare(str[start:end], start, end)
 		fmt.Println(flags)
 		break
